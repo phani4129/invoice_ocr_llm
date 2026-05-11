@@ -52,7 +52,7 @@ Invoice Images (Kaggle)
 
 ### 1. Clone the repo
 ```bash
-git clone ""
+git clone https://github.com/phani4129/invoice_ocr_llm.git
 cd invoice-ocr-llm
 ```
 
@@ -163,4 +163,4 @@ invoice-ocr-llm/
 ## Author
 
 **Phani Mellacheruvu** — AI Cloud & DevSecOps Engineer  
-[LinkedIn]() · [GitHub]()
+[LinkedIn](linkedin.com/in/phani-bhardwaj) · [GitHub](https://github.com/phani4129/invoice_ocr_llm/edit/main/invoice_ocr_llm/)
